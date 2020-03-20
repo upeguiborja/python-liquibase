@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "liquibase"
+name = "python_liquibase"
 version = "0.1.0"
 description = ""
 authors = ["Mateo Upegui Borja <upeguiborja@gmail.com>"]
